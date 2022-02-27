@@ -1,0 +1,443 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The humble petition of the House of Commons.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83711</idno>
+            <idno type="STC">Wing E2587</idno>
+            <idno type="STC">Thomason E69_24</idno>
+            <idno type="STC">ESTC R13820</idno>
+            <idno type="EEBO-CITATION">99859554</idno>
+            <idno type="PROQUEST">99859554</idno>
+            <idno type="VID">111644</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A83711)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111644)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 12:E69[24])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The humble petition of the House of Commons.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>by Leonard Litchfield,</publisher>
+                  <pubPlace>[Printed at Oxford [i.e. London] :</pubPlace>
+                  <date>1643]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A satire in verse.</note>
+                  <note>Caption title.</note>
+                  <note>The imprint, from colophon, is false; printed in London. (Lichfield never spelled his name "Litchfield"--Madan.).</note>
+                  <note>Annotation on Thomason copy: "Octob: 5 1643.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Political satire, English --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Poetry --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="part">
+            <pb n="1" facs="tcp:111644:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 40 -->
+            <head>The Humble Petition Of the Houſe of Commons.</head>
+            <lg>
+               <l>IF <hi>Charles</hi> thou wilt but be ſo kinde</l>
+               <l>To give us leave to take our minde</l>
+               <l>Of all thy ſtore.</l>
+            </lg>
+            <lg>
+               <l>When we thy loyall Subjects finde</l>
+               <l>Thou haſt nothing left to give behinde.</l>
+               <l>Wee'l aske no more.</l>
+            </lg>
+            <lg>
+               <l>Firſt for Religion it is meet,</l>
+               <l>We make it goe upon new feet,</l>
+               <l>I was lame before.</l>
+            </lg>
+            <lg>
+               <l>One from <hi>Geneva</hi> would be ſweet</l>
+               <l>Let <hi>Warwick</hi> fetch't home with his Fleet,</l>
+               <l>Weel ask no more.</l>
+            </lg>
+            <lg>
+               <l>Let us a Conſultation call,</l>
+               <l>Of honeſt men, but Round heade all,</l>
+               <l>God knowes wherefore.</l>
+            </lg>
+            <lg>
+               <l>Allow them but a place to bill,</l>
+               <l>Gainſt Biſhops Courts Apocryphall,</l>
+               <l>Wee'l ask no more.</l>
+            </lg>
+            <lg>
+               <l>Let him be hang'd that Surplice weares,</l>
+               <l>And Tippet on his ſhoulders beares;</l>
+               <l>Wr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of the Whore.</l>
+            </lg>
+            <pb n="2" facs="tcp:111644:2"/>
+            <!-- PDF PAGE 41 -->
+            <lg>
+               <l>Secure us from our needleſſe feares;</l>
+               <l>Let <hi>Prin</hi> and <hi>Burton</hi> have their eares;</l>
+               <l>Wee'l ask no more.</l>
+            </lg>
+            <lg>
+               <l>Reforme each Univerſity,</l>
+               <l>And in them let no learning be;</l>
+               <l>A great eye-ſore.</l>
+            </lg>
+            <lg>
+               <l>From thence make James Arminians flee,</l>
+               <l>Should any have Free-will but wee?</l>
+               <l>Wee'l ask no more.</l>
+            </lg>
+            <lg>
+               <l>Leſt the Elect ſhould goe aſtray,</l>
+               <l>Let Coblers teach them the right way,</l>
+               <l>To Heavens doore.</l>
+            </lg>
+            <lg>
+               <l>And leſt their ſoules ſhould weare away,</l>
+               <l>Let them the Siſters underlay;</l>
+               <l>Wee'l ask no more.</l>
+            </lg>
+            <lg>
+               <l>Next for the Biſhops Hierarchie,</l>
+               <l>Oh the word ſounds ſo ſcurvily,</l>
+               <l>Lets hear't no more.</l>
+            </lg>
+            <lg>
+               <l>It nere was taught, the Apoſtles by</l>
+               <l>Lay-Elders may the place ſupply;</l>
+               <l>Wee'l ask no more,</l>
+            </lg>
+            <lg>
+               <l>Next for the State we think it fit,</l>
+               <l>That Mr. <hi>Pym</hi> ſhould governe it,</l>
+               <l>He's very poore.</l>
+            </lg>
+            <lg>
+               <l>The money that's for Ireland writ,</l>
+               <l>Let them have the Devill a bit,</l>
+               <l>Wee'l ask no more.</l>
+            </lg>
+            <lg>
+               <l>For ordering the Militia,</l>
+               <l>Let us enact a new new way,</l>
+               <l>Nere heard before.</l>
+            </lg>
+            <pb n="3" facs="tcp:111644:2"/>
+            <!-- PDF PAGE 41 -->
+            <lg>
+               <l>Let the great Counſell beare the ſway,</l>
+               <l>If you will give us leave, you may;</l>
+               <l>Wee'l ask no more.</l>
+            </lg>
+            <lg>
+               <l>In this we will not be denide,</l>
+               <l>Becauſe in you we'l not confide;</l>
+               <l>We know wherefore.</l>
+            </lg>
+            <lg>
+               <l>The Citizens their plate provide,</l>
+               <l>Doe you but bring in yours beſide,</l>
+               <l>We'l ask no more.</l>
+            </lg>
+            <lg>
+               <l>Now if you will make <hi>Hull</hi> your owne,</l>
+               <l>There's one thing more we muſt ſet downe,</l>
+               <l>Forgot before.</l>
+            </lg>
+            <lg>
+               <l>Sir <hi>Iohn</hi> ſhall then give up the Towne,</l>
+               <l>If you will but reſigne your Crowne;</l>
+               <l>We'l ask no more.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="part">
+            <pb n="4" facs="tcp:111644:3"/>
+            <!-- PDF PAGE 42 -->
+            <head>His <hi>Majeſties</hi> Anſwer, to the aforeſaid
+Petition.</head>
+            <lg>
+               <l>I <hi>Charles</hi> your King will be ſo kinde,</l>
+               <l>To give you leave to take your minde,</l>
+               <l>Of all my greateſt ſtore.</l>
+            </lg>
+            <lg>
+               <l>When I you loyall Subjects finde,</l>
+               <l>And you thoſe Members have reſign'd,</l>
+               <l>Which I have ask'd before.</l>
+            </lg>
+            <lg>
+               <l>Or when Religion is all your cares,</l>
+               <l>And London has ſuch heads of theirs,</l>
+               <l>As they have had before.</l>
+            </lg>
+            <lg>
+               <l>When <hi>Warwick</hi> from Geneva dares,</l>
+               <l>New printed bring the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>n p<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>yers,</l>
+               <l>And reade them publick ore.</l>
+            </lg>
+            <lg>
+               <l>When all your Conſultations tend,</l>
+               <l>To pay what you have made men lend,</l>
+               <l>God knowes why or wherefore.</l>
+            </lg>
+            <lg>
+               <l>When you will no more ſay you'l ſend,</l>
+               <l>And bring me ſurely to an end,</l>
+               <l>I know you'l ask no more.</l>
+            </lg>
+            <lg>
+               <l>When your <hi>Sme<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>im<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ius</hi> Surpliſſe weares,</l>
+               <l>Or Tippet on his ſhoulder beares,</l>
+               <l>Thoſe rags of Babylons Whore.</l>
+            </lg>
+            <pb n="5" facs="tcp:111644:3"/>
+            <!-- PDF PAGE 42 -->
+            <lg>
+               <l>When <hi>Prin, Burton,</hi> and <hi>Baſtwick</hi> dires,</l>
+               <l>With your good leaves but ſhew their cares,</l>
+               <l>I know they'l ask no more.</l>
+            </lg>
+            <lg>
+               <l>When what I have borrowed I ſhall ſee</l>
+               <l>You have paid each Univerſity,</l>
+               <l>Out of the City ſtore.</l>
+            </lg>
+            <lg>
+               <l>And Doctors Chaplaines Fellowes be</l>
+               <l>Free willers of Plurality,</l>
+               <l>I know you'l ask no more.</l>
+            </lg>
+            <lg>
+               <l>When the Elect ſhall make ſuch haſt,</l>
+               <l>By the Brethren to be imorac't</l>
+               <l>In Tubs behind the doore;</l>
+            </lg>
+            <lg>
+               <l>When Coblers they ſhall preach their laſt,</l>
+               <l>All Conventickles on a Faſt,</l>
+               <l>I know you'le aske no more.</l>
+            </lg>
+            <lg>
+               <l>Whhn Biſhops all the houſe adorn,</l>
+               <l>And Round-heads for their abſence mourne,</l>
+               <l>A great, a great eye ſore.</l>
+            </lg>
+            <lg>
+               <l>When every Citizen leſſe ſcorns,</l>
+               <l>Lord <hi>Wentworths</hi> head, then <hi>Eſſex</hi>
+hornes,</l>
+               <l>I know you'le aske no more.</l>
+            </lg>
+            <lg>
+               <l>When you no more ſhall dare hereafter,</l>
+               <l>A needleſſe thing, and gaine much laughter,</l>
+               <l>To aske things granted before;</l>
+            </lg>
+            <lg>
+               <l>When <hi>Pim</hi> is ſent to Irelands ſlaughter,</l>
+               <l>And nere more hops to mary his Daughter;</l>
+               <l>I know hee'le aske no more.</l>
+            </lg>
+            <lg>
+               <l>When you have found a cleer way</l>
+               <l>For ordering the Militia,</l>
+               <l>Which I neer heard before;</l>
+            </lg>
+            <pb n="8" facs="tcp:111644:4"/>
+            <!-- PDF PAGE 43 -->
+            <lg>
+               <l>When <hi>Atkinſon</hi> on the Trayning day,</l>
+               <l>Should dare his Office to bewray,</l>
+               <l>I know hee'le aske no more.</l>
+            </lg>
+            <lg>
+               <l>When naught to me ſhall be denied,</l>
+               <l>And you ſhall all in me confide,</l>
+               <l>There's reaſon good therefore;</l>
+            </lg>
+            <lg>
+               <l>When <hi>Denmarke</hi> ſhall for me provide,</l>
+               <l>And all the <hi>Scots</hi> be on my ſide,</l>
+               <l>I'le make you aske no more.</l>
+            </lg>
+            <lg>
+               <l>Laſt when you ſhall make <hi>Hull</hi> my owne,</l>
+               <l>The one thing more I will ſet downe,</l>
+               <l>Which I forgot before;</l>
+            </lg>
+            <lg>
+               <l>When I am got into the Towne,</l>
+               <l>I'le make ten more beſides that clowne,</l>
+               <l>Shall never aske no more.</l>
+            </lg>
+            <trailer>FJNJS.</trailer>
+         </div>
+         <div type="part">
+            <pb n="7" facs="tcp:111644:4"/>
+            <!-- PDF PAGE 43 -->
+            <head>Oxford <hi>Riddle.</hi>
+            </head>
+            <lg>
+               <l>THere dwells a People on the Earth,</l>
+               <l>That reckons true Alleagiance Treaſon,</l>
+               <l>That makes ſad Warre a holy mirth,</l>
+               <l>Calls madneſſe Zeale, and nonſence Reaſon;</l>
+               <l>That findes no Freedome but in ſlavery,</l>
+               <l>That makes Lyes truth, Religion Knavery,</l>
+               <l>That Rob and Cheat with yea and nay,</l>
+               <l>Riddle me, Riddle me, what are they?</l>
+            </lg>
+            <lg>
+               <l>That hate the fleſh, yet firke their Dames,</l>
+               <l>That make Kings great by curbing Crownes,</l>
+               <l>That quench the fire, by kindling flames,</l>
+               <l>That ſettle Peace, by Plundring Townes,</l>
+               <l>That govern with implicite Votes,</l>
+               <l>That ſtabliſh truth, by cutting throats,</l>
+               <l>That kiſſe their Maſter, and betray,</l>
+               <l>Riddle me, riddle me, who are they?</l>
+            </lg>
+            <lg>
+               <l>That make Heaven ſpeake by their Commiſsion,</l>
+               <l>That ſtop Gods Peace, and boaſt his power,</l>
+               <l>That teach bold Blaſphemy and Sedition,</l>
+               <l>And pray high Treaſon by the houre,</l>
+               <pb n="8" facs="tcp:111644:5"/>
+               <!-- PDF PAGE 44 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="7" facs="tcp:111644:5"/>
+               <!-- PDF PAGE 44 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="8" facs="tcp:111644:6"/>
+               <!-- PDF PAGE 45 -->
+               <l>That Dam all Saints but ſuch as they are,</l>
+               <l>That wiſh all Common, except prayer,</l>
+               <l>That I <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+               <l>Riddle me, riddle me, who are they?</l>
+            </lg>
+            <lg>
+               <l>That to enrich the Common wealth,</l>
+               <l>Tranſport large Gold to For<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>igne parts,</l>
+               <l>That houſ't in <hi>Amſterdam</hi> by ſtealth;</l>
+               <l>Yet lord it here within our gates,</l>
+               <l>That are ſtaid men, yet only ſtay.</l>
+               <l>For a light night to runne away,</l>
+               <l>That borrow to lend, and rob to pay,</l>
+               <l>Riddle me, riddle me, what are they?</l>
+            </lg>
+            <trailer>FJNJS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed at <hi>Oxford</hi> by <hi>Leonard Litchfield.</hi>
+1643.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
